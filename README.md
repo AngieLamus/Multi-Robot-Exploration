@@ -1,4 +1,5 @@
-# fronteras_ros2_multiagente
+# fronteras_ros2_multirobot
+[![Demostración de Anti-Vicsek en Gazebo](https://img.youtube.com/vi/s_eMQDOLYiU/0.jpg)](https://www.youtube.com/watch?v=s_eMQDOLYiU)
 
 ROS 2 (Humble) package implementing a decentralized coordination architecture for multi-agent SLAM in unstructured indoor environments.
 
